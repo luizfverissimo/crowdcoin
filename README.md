@@ -1,27 +1,44 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center">Crowdcoin</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+> ♦ Crowd funding project using Smart Contracts on the Ethereum. Created with Next.js and Tailwind CSS.
 
-## Preview
+> Project from ["Ethereum and Solidity: The Complete Developer`s Guide"](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), arts by [Storyset](https://storyset.com/).
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+### 🏠 [Homepage](https://crowdcoin-lfv.vercel.app/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Screenshots
 
-## Deploy your own
+<img src="/img/1.jpeg" alt="Screenshot 1" width="400"/> <img src="/img/2.jpeg" alt="Screenshot 2" width="400"/>  <img src="/img/3.jpeg" alt="Screenshot 3" width="400"/> <img src="/img/4.jpeg" alt="Screenshot 4" width="400"/> <img src="/img/5.jpeg" alt="Screenshot 5" width="400"/>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Install
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+```sh
+yarn #npm install
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Usage
+
+```sh
+yarn dev #npm run dev
+```
+
+## Author
+[<img alt="Logo LF Verissimo - Front-end Developer" src="https://github.com/luizfverissimo/luizfverissimo/blob/8604eedb8ecf5eeb23f8ffae63cfdf8eba6513c3/banner.png?raw=true" />](https://lfverissimo.com)
+
+👤 **LF Verissimo**
+
+* Website: https://lfverissimo.com
+* Github: [@luizfverissimo](https://github.com/luizfverissimo)
+* LinkedIn: [@lfverissimo](https://linkedin.com/in/lfverissimo)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
