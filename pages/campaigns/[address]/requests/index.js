@@ -94,8 +94,6 @@ export async function getServerSideProps({ params }) {
     };
   });
 
-  console.log(requests);
-
   return {
     props: {
       address: params.address,
