@@ -5,6 +5,8 @@
   </a>
 </p>
 
+THIS PROJECT WAS CREATED WITH RINKEBY TEST NET WITCH IS NOW DISCONTINUED
+
 > ♦ Crowd funding project using Smart Contracts on the Ethereum. Created with Next.js and Tailwind CSS. This project use the Rinkeby Test Network, to interact with this project you must have a Metamask account and some ethereum in the account (you can get some ethereum [here](https://faucets.chain.link/rinkeby)).
 
 > Project from ["Ethereum and Solidity: The Complete Developer`s Guide"](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), arts by [Storyset](https://storyset.com/).
